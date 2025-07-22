@@ -1,12 +1,30 @@
-- 👋 Hi, I’m Olubunmi Olafenwa
-- 👀 I’m interested in Story telling with Data
-- 🌱 I’m currently into Data Sciences
-- 💞️ I’m looking to collaborate on Data Sciences
-- 📫 How to reach me olubunmi.olafenwa@yahoo.com and https://github.com/OOlubunmi
-- 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: I play the drums.
+# 👋 Hi, I'm Olafenwa Olubunmi
 
-<!---
-OOlubunmi/OOlubunmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a data-driven professional with a strong background in pharmaceutical sales leadership, now transitioning into the world of Data Analytics and Data Science.
+
+I’m passionate about using data to uncover insights, improve decision-making, and solve real-world business challenges. My goal is to leverage analytical tools and machine learning techniques to support data-informed strategies.
+
+---
+
+## 🛠️ Tools & Technologies
+- **Languages**: Python, SQL
+- **Libraries**: Pandas, NumPy, Scikit-learn, Prophet, Seaborn, Matplotlib
+- **Tools**: Tableau, Microsoft Power BI, Excel, Looker, Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+- 📈 Currency Exchange Rate Forecasting with Prophet  
+- 🛒 Customer Purchase Behavior & Segmentation  
+- 📊 Sales & Collection Analysis for FMCG data  
+(*More coming soon*)
+
+---
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/olubunmi-olafenwa-5309282b)
+- ✉️ Email: olubunmi.olafenwa@yahoo.com
+
+---
+
+> “Turning data into insight is good. Turning insight into action is better.”
